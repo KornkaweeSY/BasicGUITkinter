@@ -1,3 +1,3 @@
 # BasicGUITkinter
 
-hide for unlock Pull shark
+hide for unlock Pull shark 2 time
